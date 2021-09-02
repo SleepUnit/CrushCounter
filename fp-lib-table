@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Keebio-Parts)(type KiCad)(uri ./Libraries/Keebio-Parts.pretty)(options "")(descr ""))
+  (lib (name keyswitches)(type KiCad)(uri ./Libraries/keyswitches.pretty)(options "")(descr ""))
+  (lib (name OSFRD)(type KiCad)(uri ./Libraries/OSFRD.pretty)(options "")(descr ""))
+  (lib (name RP2040_minimal)(type KiCad)(uri ./Libraries/RP2040_minimal.pretty)(options "")(descr ""))
+)
