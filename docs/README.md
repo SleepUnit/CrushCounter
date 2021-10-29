@@ -34,19 +34,19 @@ They are:
 
 ### Static Color
 
-This is a single color for all 12 button LEDs. Changing the parameter of this base animation changes the color of the buttons. One of these colors is black--also known as, we don't turn the LEDs on--which is both useful for haters who don't like RGB and peope who want cool button press animations, but not a full time base animation.
+This is a single color for all 12 button LEDs. Changing the parameter of this base animation changes the color of the buttons. One of these colors is black--also known as, we don't turn the LEDs on--which is both useful for haters who don't like RGB and people who want cool button press animations, but not a full time base animation.
 
 ### Rainbow
 
-You know that breathing rainbow effect all RGB devices do? It's that. Changing the paramter of this base animation changes how fast it transitions between color states. It can be super slow, or fighting seizure robot fast.
+You know that breathing rainbow effect all RGB devices do? It's that. Changing the parameter of this base animation changes how fast it transitions between color states. It can be super slow, or fighting seizure robot fast.
 
 ### Comet Chase
 
-A color gradient races across the face buttons of the controller. Changing the paramter of this base animation changes how fast it moves between buttons. It's kind of like the Cylon eye sweep if the Cylons were at Burning Man.
+A color gradient races across the face buttons of the controller. Changing the parameter of this base animation changes how fast it moves between buttons. It's kind of like the Cylon eye sweep if the Cylons were at Burning Man.
 
 ### Static Theme
 
-Instead of the buttons being a single color, these are sets of themes. They run the gammet from old consoles to individual fighting games. Changing the parameter changes the theme. As of writing, the list is:
+Instead of the buttons being a single color, these are sets of themes. They run the gamut from old consoles to individual fighting games. Changing the parameter changes the theme. As of writing, the list is:
 
 * Static Rainbow
 * Super Famicom
@@ -145,7 +145,7 @@ There's no firmware support for this yet, but it's on the horizon. Especially if
 
 !> **What does the Crush Counter have in common with a Lamborghini?** They're both hand built.
 
-Everything from component placement and soldering to acrylic cutting and routing happens in house. We test and visually inspect everything that leaves the shop, but minor issues can squeek through. Before you come for our heads, here's a few common things to consider:
+Everything from component placement and soldering to acrylic cutting and routing happens in house. We test and visually inspect everything that leaves the shop, but minor issues can squeak through. Before you come for our heads, here's a few common things to consider:
 
 ## One of my buttons isn't working!
 
@@ -159,17 +159,17 @@ Once it's out, inspect the pins on the bottom of the switch. Is one of them bent
 
 If it's missing... well, that's not great. It's time for a new switch. If it came this way, please reach out and we'll get you a new one in the mail. If you've taken it out a few times and accidentally bungled it... well, at least they're inexpensive to replace.
 
-If it's bent, don't stress! They are extremely malliable. I like to use a small pair of tweezers to squeeze it back straight, but any small tool to gently bend it back should work. It doesn't need to be perfect. The sockets are fairly forgiving. Once it's un-bent, line it up and gently reinstall the switch. If it still doesn't work, remove it and see if you bent it again putting it back in. Repeat until you get it right. Sheesh.
+If it's bent, don't stress! They are extremely malleable. I like to use a small pair of tweezers to squeeze it back straight, but any small tool to gently bend it back should work. It doesn't need to be perfect. The sockets are fairly forgiving. Once it's un-bent, line it up and gently reinstall the switch. If it still doesn't work, remove it and see if you bent it again putting it back in. Repeat until you get it right. Sheesh.
 
 ## What's this blue junk on here?
 
 All of our acrylic is cut with a masking layer attached to both sides. This prevents burn marks, crazing and other grossness that can occur when you obliterate plastic with the power of laser beams. Because the Crush Counter is shipped assembled, all of this is removed ahead of time. Theoretically. Sometimes small pieces of this masking material find their way into weird places that don't immediately get noticed.
 
-If you see blue specks--or, occasionally, tan specks--no worries. Follow the case dissassembly information found elsewhere in this guide, and it should peel up or rub off easily.
+If you see blue specks--or, occasionally, tan specks--no worries. Follow the case disassembly information found elsewhere in this guide, and it should peel up or rub off easily.
 
 ## There's dust in here. Gross.
 
-Our dust filtration system is a state of the art combination of comodity grade fans, cut to size furnace filters and activated carbon intended for aquariums. Incredibly, the dust from routing and laser cutting acrylic occasionally escapes this system and finds its way in between layers in the case of a Crush Counter.
+Our dust filtration system is a state of the art combination of commodity grade fans, cut to size furnace filters and activated carbon intended for aquariums. Incredibly, the dust from routing and laser cutting acrylic occasionally escapes this system and finds its way in between layers in the case of a Crush Counter.
 
 Every time this happens, we flog the person responsible. Every single time.
 
