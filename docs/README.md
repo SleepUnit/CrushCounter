@@ -127,7 +127,7 @@ Instead of a controller, your computer should recognize it as an external drive.
 
 # Adding Art
 
-First, you'll need to design something awesome using [the template for the top acrylic layer](/SolidTop.svg). Ideally, you'll want your art to flow over the outline a little so that any minor errors in cutting your art will still look dope.
+First, you'll need to design something awesome using [the template for the top acrylic layer](/SolidTop.svg ':ignore'). Ideally, you'll want your art to flow over the outline a little so that any minor errors in cutting your art will still look dope.
 
 Once you've got your art designed and printed on some fancy card stock, cut out the marked holes for the buttons and screws. You can remove the cutouts for the player LEDs if you want--they'll shine through the cardstock either way.
 
