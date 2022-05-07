@@ -1,0 +1,24 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,LSCS
+1,"Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x10_Odd_Even,J1,20 Pin,PinSocket_2x10_P2.54mm_Vertical_SMD,1,~,
+2,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2,STEMMA QT,JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,1,~,C160404
+3,,KEYSW,SW-P1 SW-P2 SW-P3 SW-P4 SW-P5 SW-P6 SW-P7 SW-P8 SW-P9 SW-P10 SW-P11 SW-P12,KEYSW,Kailh_socket_MX,12,,
+4,,SW_PUSH,SW1 SW2 SW3 SW4 SW5 SW6 SW7,SW_PUSH,SW_Tactile_SPST_Angled_PTS645Vx83-2LFS,7,,C221889
+5,Unpolarized capacitor,C,U-CAP1 U-CAP2 U-CAP3 U-CAP4 U-CAP5 U-CAP6 U-CAP7 U-CAP8 U-CAP9 U-CAP10 U-CAP11 U-CAP12 U-CAP13 U-CAP14 U-CAP15 U-CAP16,0.1uF,C_0805_2012Metric,16,~,C49678
+6,,Pico,U1,Pico,RPi_Pico_SMD_TH,1,,
+7,RGB LED with integrated controller,SK6812,U-RGB1 U-RGB2 U-RGB3 U-RGB4 U-RGB5 U-RGB6 U-RGB7 U-RGB8 U-RGB9 U-RGB10 U-RGB11 U-RGB12 U-RGB13 U-RGB14 U-RGB15 U-RGB16,Reverse Mounted NeoPixel,SK6812-MINI-E,16,https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf,
+
+
+
+
+
+Component Groups:,7
+Component Count:,54
+Fitted Components:,54
+Number of PCBs:,1
+Total components:,54
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,10/4/2021 1:19:05 PM
+Schematic Source:,OSFRD.sch
+KiCad Version:,Eeschema (5.1.9)-1

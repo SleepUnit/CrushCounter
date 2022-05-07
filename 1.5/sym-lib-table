@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name keyboard_parts)(type Legacy)(uri C:/Users/jbark/OneDrive/KiCad//Libraries/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_RP2040)(type Legacy)(uri ${KIPRJMOD}/Libraries/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
+  (lib (name MCU_RaspberryPi_and_Boards)(type Legacy)(uri C:/Users/jbark/OneDrive/KiCad/Libraries/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.lib)(options "")(descr ""))
+)

@@ -1,0 +1,18 @@
+### Module positions - created on Fri Jan 21 12:48:09 2022 ###
+### Printed by Pcbnew version (6.0.0)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                PosX       PosY       Rot  Side
+SW2       1P        Kailh_socket_MX     58.2850    42.8400    0.0000  top
+SW3       Left      Kailh_socket_MX    -33.2800    32.8400    0.0000  top
+SW4       1K        Kailh_socket_MX     58.2850    11.6400    0.0000  top
+SW7       Down      Kailh_socket_MX     -4.6450    32.8400    0.0000  top
+SW8       2P        Kailh_socket_MX     82.6850    58.8400    0.0000  top
+SW9       2K        Kailh_socket_MX     82.6850    27.6400    0.0000  top
+SW12      Right     Kailh_socket_MX     23.5900    25.6400    0.0000  top
+SW13      3P        Kailh_socket_MX    111.4850    58.9400    0.0000  top
+SW14      3K        Kailh_socket_MX    111.4850    27.6400    0.0000  top
+SW17      4P        Kailh_socket_MX    139.8850    51.7400    0.0000  top
+SW18      4K        Kailh_socket_MX    140.2850    20.5400    0.0000  top
+SW20      Up        Kailh_socket_MX     32.3900   -22.3900    0.0000  top
+## End

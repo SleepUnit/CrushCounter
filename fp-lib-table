@@ -1,6 +1,0 @@
-(fp_lib_table
-  (lib (name Keebio-Parts)(type KiCad)(uri ${KIPRJMOD}/Libraries/Keebio-Parts.pretty)(options "")(descr ""))
-  (lib (name keyswitches)(type KiCad)(uri ${KIPRJMOD}/Libraries/keyswitches.pretty)(options "")(descr ""))
-  (lib (name OSFRD)(type KiCad)(uri ${KIPRJMOD}/Libraries/OSFRD.pretty)(options "")(descr ""))
-  (lib (name MCU_RaspberryPi_and_Boards)(type KiCad)(uri C:/Users/jbark/OneDrive/KiCad/Libraries/RP_Silicon_KiCad-main/KiCadLibraries/MCU_RaspberryPi_and_Boards.pretty)(options "")(descr ""))
-)

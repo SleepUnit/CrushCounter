@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "sleepunit")(type KiCad)(uri "$(KIPRJMOD)/sleepunit.pretty")(options "")(descr ""))
-)
